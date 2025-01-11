@@ -22,5 +22,13 @@ Used recent performance data to pick players who are in peak form.
 **Fast Bowlers:** Seamers who bring pace, swing, and accuracy to dismantle batting lineups.
 This dashboard-based approach emphasizes how data-driven decisions can enhance team selection and strategy, reflecting the importance of analytics in modern sports. 🏏📊
 Who would make your Dream XI? Let’s discuss! 🤔💬
-https://media.licdn.com/dms/image/v2/D5622AQFbUNGXZuvhpg/feedshare-shrink_2048_1536/B56ZRUq1w6GoAo-/0/1736587305905?e=1739404800&v=beta&t=gsSOvMy0J_R8yr14X5pt0GVN0srCy4USCEhlLZjaIv4
+
 ![image](https://github.com/user-attachments/assets/58520d48-f4c2-41d5-a7c4-8ab76403ac28)
+![image](https://github.com/user-attachments/assets/edbba657-0cb6-41e0-9864-581ae1d4af90)
+![image](https://github.com/user-attachments/assets/e9b80ffc-bc6d-4f3f-b033-cf586a3899b8)
+![image](https://github.com/user-attachments/assets/a209e00e-2051-4e95-8f35-0d4dd7d1c266)
+![image](https://github.com/user-attachments/assets/3cedc66a-2da4-4c79-9841-2a4072e4e168)
+![image](https://github.com/user-attachments/assets/a76dcf1c-a809-4073-853a-e9d377a8786f)
+![image](https://github.com/user-attachments/assets/9654255c-c9f2-4405-97ff-bb4297a006b0)
+
+
