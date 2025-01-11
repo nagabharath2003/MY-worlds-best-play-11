@@ -23,3 +23,4 @@ Used recent performance data to pick players who are in peak form.
 This dashboard-based approach emphasizes how data-driven decisions can enhance team selection and strategy, reflecting the importance of analytics in modern sports. 🏏📊
 Who would make your Dream XI? Let’s discuss! 🤔💬
 https://media.licdn.com/dms/image/v2/D5622AQFbUNGXZuvhpg/feedshare-shrink_2048_1536/B56ZRUq1w6GoAo-/0/1736587305905?e=1739404800&v=beta&t=gsSOvMy0J_R8yr14X5pt0GVN0srCy4USCEhlLZjaIv4
+![image](https://github.com/user-attachments/assets/58520d48-f4c2-41d5-a7c4-8ab76403ac28)
